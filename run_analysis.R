@@ -1,5 +1,3 @@
-library(dplyr)
-library(tidyr)
 library(plyr)
 
 # setting filenames

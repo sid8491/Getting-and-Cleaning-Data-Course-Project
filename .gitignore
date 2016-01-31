@@ -21,6 +21,3 @@ vignettes/*.pdf
 # data files
 UCI HAR Dataset
 UCI_dataset.zip
-
-#output file
-tidy.txt
